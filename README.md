@@ -69,7 +69,8 @@ My Portfolio/
 
 ## 📸 **Preview of the Website**
 
-![Portfolio Preview](https://github.com/alyssagoyal/My-Portfolio/assets/preview.png)
+![Portfolio Preview](https://github.com/alyssagoyal/My-Portfolio/blob/main/assets/preview.png)
+
 
 
 ---
